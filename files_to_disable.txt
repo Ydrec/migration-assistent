@@ -1,0 +1,11 @@
+//Add all the mods/files in mods/config/resources/scripts folders you want to disable after installation
+//This file uses findstr /r for regex.
+// "//" at line start is set as comment
+//When adding filenames remember to escape special symbols such as "\." "\*" "\\" and use ".*" instead of just "*"
+
+//Examples:
+//journeymap.*fairplay\.jar
+//HardcoreDarkness.*\.jar
+//ic2\\EJML-core.*\.jar
+
+
