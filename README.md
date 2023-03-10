@@ -5,4 +5,6 @@ Throw migrationassistant.bat, files_to_keep.txt, files_to_disable.txt in the ins
 
 Throw new pack zip file into same folder and run migrationassistant.bat
 
+Restart your launcher after migration is finished
+
 The code is subpar so it can take a minute to parse all files.
